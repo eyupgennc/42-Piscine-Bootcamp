@@ -1,0 +1,6 @@
+Credentials cache: API:E4379263-814A-42EC-9D57-4F5A232D3BF3
+        Principal: eygenc@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Oct 20 15:32:59 2021  Oct 21 01:32:59 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
+Oct 20 15:33:01 2021  Oct 21 01:32:59 2021  HTTP/student-storage.42istanbul.com.tr@42ISTANBUL.COM.TR
