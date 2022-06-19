@@ -10,7 +10,7 @@ This repository contains coding developed at [42Istanbul's](https://www.42istanb
     approved in its selection process. The so-called "C Piscine", a 26-day C programming bootcamp,
     is the last stage in the selection process for becoming a "cadet" (42's student).
 
-[![Photo of a 42Istanbul's lab](42Istanbul.jpg)](https://www.42istanbul.com.tr)
+[![Photo of a 42Istanbul's lab](42Istanbul.jpeg)](https://www.42istanbul.com.tr)
 
 ## Skills developed at C Piscine
 
